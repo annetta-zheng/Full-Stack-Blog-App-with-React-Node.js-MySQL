@@ -1,11 +1,21 @@
 # Blog App with React Node.js Express MySQL in javascript
 
 This is a for a full stack Blog Application using React components on the front end, with a CRUD Application using NodeJS + Express + MySQL on the back end.
+
 - [Demo](#demo)
+- [Key Features](#Features)
 - [Structure](#Structure)
 - [Package Required](#Package-Required)
 
+## Features
+One of the key features of this application is the ability for users to register and create their own blog posts. Users can write, update, and delete their blog posts powered by a MySQL database. 
+The application also includes features such as authentication and authorization to ensure that only authorized users can create, update, and delete blog posts. 
+Another important feature is customizing, users can view the posts filtered by categories and get posts recommendation within the same category. 
+The React components used in the front-end include a variety of UI elements and the components are designed to be reusable, allowing developers to build complex interfaces using a combination of simple components and allowing user to post and edit a blog with rich text editors and pictures. 
+The web app is also designed to be responsive, adapting to different screen sizes and orientations.
+
 ## Structure
+The front-end of the application is built using React components, which provide a dynamic and responsive user interface for the blog application. 
 #### Client
 - src: contains all the web page components
   * components: footer, menu, navbar
@@ -15,6 +25,7 @@ This is a for a full stack Blog Application using React components on the front 
   * context: user identification
 - public: stores user uploaded images
 
+The back-end of the application is built using NodeJS and Express, which provide the server-side functionality required to manage user data and handle CRUD operations. 
 #### Api
 - index.js
 - database: db.js
