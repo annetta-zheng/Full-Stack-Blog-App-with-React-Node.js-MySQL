@@ -1,6 +1,9 @@
 # Blog App with React Node.js Express MySQL in javascript
 
 This is a for a full stack Blog Application using React components on the front end, with a CRUD Application using NodeJS + Express + MySQL on the back end.
+- [Demo](#demo)
+- [Structure](#Structure)
+- [Package Required](#Package-Required)
 
 ## Structure
 #### Client
