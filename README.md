@@ -2,6 +2,21 @@
 
 This is a for a full stack Blog Application using React components on the front end, with a CRUD Application using NodeJS + Express + MySQL on the back end.
 
+## Structure
+#### Client
+- src: contains all the web page components
+  * components: footer, menu, navbar
+  * pages: home, login, register, write, post
+  * img: logo, buttons
+  * style: style.scss for customized design
+  * context: user identification
+- public: stores user uploaded images
+
+#### Api
+- index.js
+- database: db.js
+- controller/routes: to manage changes in database for authentication, posts, and users
+
 ## Demo
 
 ### Home Page
@@ -17,20 +32,7 @@ This is a for a full stack Blog Application using React components on the front 
 <img width="582" alt="image" src="https://user-images.githubusercontent.com/67286396/234438578-8510fd94-d457-4bde-af1e-f29441f2cffb.jpg">
 
 
-## Structure
-#### Client
-- src: contains all the web page components
-  * components: footer, menu, navbar
-  * pages: home, login, register, write, post
-  * img: logo, buttons
-  * style: style.scss for customized design
-  * context: user identification
-- public: stores user uploaded images
 
-#### Api
-- index.js
-- database: db.js
-- controller/routes: to manage changes in database for authentication, posts, and users
 
 In the project directory, you can run:
 
