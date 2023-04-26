@@ -8,8 +8,8 @@ This is a for a full Blog Posting Application using React on the front end, with
 
 ### Authentication Page
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/67286396/234437626-dbb2a7d2-de11-430b-a4ce-319ab17a1faa.jpg" width=50%>
-  <img src="https://user-images.githubusercontent.com/67286396/234437610-ac0b9b97-ca3e-4040-97c0-bb44dffd5484.jpg" width=50%>
+<img src="https://user-images.githubusercontent.com/67286396/234437626-dbb2a7d2-de11-430b-a4ce-319ab17a1faa.jpg" width=40%>
+<img src="https://user-images.githubusercontent.com/67286396/234437610-ac0b9b97-ca3e-4040-97c0-bb44dffd5484.jpg" width=40%>
 </p>
 
 ### Compose Page
