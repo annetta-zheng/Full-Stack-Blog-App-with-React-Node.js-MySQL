@@ -3,7 +3,7 @@
 This is a for a full Blog Posting Application using React on the front end, with NodeJS + Express + MySQL on the back end.
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/67286396/234437626-dbb2a7d2-de11-430b-a4ce-319ab17a1faa.jpg" width="200" height="200">
+  <img src="https://user-images.githubusercontent.com/67286396/234437626-dbb2a7d2-de11-430b-a4ce-319ab17a1faa.jpg" width=50% height=10%>
   <img src="https://user-images.githubusercontent.com/67286396/234437610-ac0b9b97-ca3e-4040-97c0-bb44dffd5484.jpg" width="200" height="200">
 </p>
 In the project directory, you can run:
