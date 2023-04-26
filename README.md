@@ -2,10 +2,9 @@
 
 This is a for a full Blog Posting Application using React on the front end, with NodeJS + Express + MySQL on the back end.
 
-![React App](https://user-images.githubusercontent.com/67286396/234437610-ac0b9b97-ca3e-4040-97c0-bb44dffd5484.jpg)
 
-![React App](https://user-images.githubusercontent.com/67286396/234437626-dbb2a7d2-de11-430b-a4ce-319ab17a1faa.jpg)
-
+<img src="https://user-images.githubusercontent.com/67286396/234437626-dbb2a7d2-de11-430b-a4ce-319ab17a1faa.jpg" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/67286396/234437610-ac0b9b97-ca3e-4040-97c0-bb44dffd5484.jpg" width="150" height="150">
 In the project directory, you can run:
 
 #### `yarn start`
