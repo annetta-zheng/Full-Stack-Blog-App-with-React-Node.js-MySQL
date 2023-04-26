@@ -49,24 +49,24 @@ You may also see any lint errors in the console.
 
 #### Package Required
 Client Folder contains the Front End packages with React
-         - "react": "^18.0.0",
-         - "react-dom": "^18.0.0",
-         - "react-quill": "^2.0.0",
-         - "react-router-dom": "^6.10.0",
-         - "react-scripts": "5.0.1",
-         - "sass": "^1.62.0",
-    "moment": "^2.29.4",
-    "axios": "^1.3.6",
+  * "react": "^18.0.0",
+  * "react-dom": "^18.0.0",
+  * "react-quill": "^2.0.0",
+  * "react-router-dom": "^6.10.0",
+  * "react-scripts": "5.0.1",
+  * "sass": "^1.62.0",
+  * "moment": "^2.29.4",
+  * "axios": "^1.3.6",
 
 Api Folder contains the Back End packages with MySQL server
-         - "cookie-parser": "~1.4.4",
-         - "debug": "~2.6.9",
-         - "ejs": "~2.6.1",
-         - "express": "~4.16.1",
-         - "http-errors": "~1.6.3",
-         - "morgan": "~1.9.1"
-    
-   ** "nodemon" Helps in automatically restarting the server whenever the code changes.
+  * "cookie-parser": "~1.4.4",
+  * "debug": "~2.6.9",
+  * "ejs": "~2.6.1",
+  * "express": "~4.16.1",
+  * "http-errors": "~1.6.3",
+  * "morgan": "~1.9.1"
+
+  ** "nodemon" Helps in automatically restarting the server whenever the code changes.
 
 
 
