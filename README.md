@@ -1,19 +1,10 @@
 # Blog App with React Node.js Express MySQL in javascript
 
 This is a for a full Blog Posting Application using React on the front end, with NodeJS + Express + MySQL on the back end.
-[React App (dragged).pdf](https://github.com/annetta-zheng/Full-Stack-Blog-App-with-React-Node.js-MySQL/files/11327809/React.App.dragged.pdf)
-[React App (dragged).pdf](https://github.com/annetta-zheng/Full-Stack-Blog-App-with-React-Node.js-MySQL/files/11327810/React.App.dragged.pdf)
-[React App (dragged).pdf](https://github.com/annetta-zheng/Full-Stack-Blog-App-with-React-Node.js-MySQL/files/11327811/React.App.dragged.pdf)
-[React App (dragged).pdf](https://github.com/annetta-zheng/Full-Stack-Blog-App-with-React-Node.js-MySQL/files/11327812/React.App.dragged.pdf)
 
+![React App](https://user-images.githubusercontent.com/67286396/234437610-ac0b9b97-ca3e-4040-97c0-bb44dffd5484.jpg)
 
-[React App.pdf](https://github.com/annetta-zheng/Full-Stack-Blog-App-with-React-Node.js-MySQL/files/11327831/React.App.pdf)
-
-[React App.pdf](https://github.com/annetta-zheng/Full-Stack-Blog-App-with-React-Node.js-MySQL/files/11327832/React.App.pdf)
-
-
-
-[React App.pdf](https://github.com/annetta-zheng/Full-Stack-Blog-App-with-React-Node.js-MySQL/files/11327820/React.App.pdf)
+![React App](https://user-images.githubusercontent.com/67286396/234437626-dbb2a7d2-de11-430b-a4ce-319ab17a1faa.jpg)
 
 In the project directory, you can run:
 
